@@ -31,7 +31,17 @@ How do you want to communicate your findings/products?  Do you want to write and
 
 ## Team members and roles
 
-List the team members and their roles.  Write out the expectations for each role in the project.
+#List the team members and their roles.  Write out the expectations for each role in the project.
+
+Team members:
+
+# Derek Wales
+
+# Joao Mansur
+
+# Julio Portella:
+Software developer and healthcare informatics enthusiast. I am expected to do the mathematical analysis and to work on the hard parts of the software development process. On the other hand, I am expected to support my teammates in the areas where they are more capable.
+
 
 ## Supporting resources
 

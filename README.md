@@ -5,7 +5,15 @@ What do you want to accomplish this year? The specifics of the "what" can be a b
 
 ## Time commitment.
 
-What are the expectations for checking in with one another?  How much time are you committed to working on this project every week?
+For meetings and coordinations:
+ * At least once a week a meeting with the client and the project manager
+ * Give response as fast as possible
+ * Most of the communication will be through Slack, but in some cases we will have one meeting at least once every two weeks.
+
+The expected amount of time given for the project is proportional to the number of credits of the Capstone
+ * 3 hours per week are given for each credit
+ * 4 credits mean at least 12 hours per week.
+ * These 12 hours are a combination of individual work, research, coding, meetings, etc.
 
 ## Team culture.
 

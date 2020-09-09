@@ -1,0 +1,172 @@
+Team Charter
+============
+
+Purpose and goal.
+-----------------
+
+Exercise physiology is a challenging field. One of the key things for doctors
+to understand is the interactions between the caused by the interaction among
+three related systems: the respiratory system the cardiovascular system, and
+the skeletal muscle system. This is currently done through Cardiopulmonary
+exercise testing (CPET), which is visualized by looking at the slope of 9
+different plots (known as the Wasserman 9 plot). Our stakeholders would like
+us to use the data that they have collected to help develop a better
+visualization of the Wasserman 9 plot. One that conveys the inner workings of
+the respiratory, cardiovascular, and skeletal systems so doctors can more
+quickly and effectively diagnose patients.
+
+Time commitment
+---------------
+
+For meetings and coordinations:
+-   At least once a week a meeting with the client and the project manager
+-   Team members will be responsive over Slack, WhatsApp, or Phone.
+-   Primary Communication is through Slack, but the team will also have a
+    weekly Zoom sync
+
+The expected amount of time given for the project is proportional to the number
+of credits of the Capstone
+-   3 hours per week are given for each credit
+-   4 credits mean at least 12 hours per week.
+-   These 12 hours are a combination of individual work, research, coding,
+    meetings, etc.
+
+Team culture.
+-------------
+We plan to leverage each other’s strengths to get the job done. This means
+delivering a great product to our stakeholder.
+
+The team is mature enough to know when and where we can help and if someone else
+needs to take lead. This will allow us to work in concert to deliver value to
+our client and have a great capstone project.
+
+Issues will be handled through our weekly sync meetings on Mondays, meetings
+with stakeholders on Tuesdays, and regularly scheduled workdays on other days
+of the week. By splitting roles and coordinating at least 2-3 times a week we
+will be able to communicate our work status and avoid issues of duplication
+and utilize delegation techniques to prevent simultaneous work issues from
+occurring. Problems that arise will be dealt with in meetings that do not
+include our clients, if any issue remains unresolved, we will bring issues to
+our PM Heather.
+
+As such, for team meetings we will consistently add tasks to our project board
+(probably Trello) and update it every sync meeting on Mondays. To do this we
+will have to add backlog, To Do, and update all Doing/Done items (though a
+lot may be done individually throughout the week). On Mondays we will also
+decide our agenda for the client meeting on Tuesdays and prepare any material
+or questions/request we must take to the meeting to ensure meetings are
+productive. Info requests for the client should be clear and concise in a
+way that allows efficient removal of obstacles for the team
+
+Therefore, our interactions with the clients should be straight-forward and
+direct within the boundaries of cooperative interaction. We should always be as
+prepared as possible to guarantee maximum productivity in our client meetings.
+To create a more cooperative environment, we will also seek to be friendly and
+create a sense of overall cooperation within the full stakeholder scenario.
+
+
+Deliverables
+------------
+Our initial KPI is the interpretability/accuracy of our visualizations.
+
+We need to receive the data and together with our PM establish a timeline.
+
+Our process will be audited by ourselves and our PM as we establish goals and
+more on a weekly meeting basis.
+
+
+Desired end result
+------------------
+
+1.  Reachable goals: Our team will achieve is to finding a better way to
+    presenting the data from the CPET Test. This will enable the clinician to
+    make more precise diagnoses. Our Team will a new visualization for the
+    test, showing the interaction between the three systems of interest
+    (respiratory, cardiovascular, and skeletal muscle), likely in the form of a
+    composite vector for each.
+
+2.  Tangible goals: Our team will create through their research.
+    As described above, the product will be a 3D display clearly indicating
+    which system dominates the test that causes termination of the test. Which
+    will contribute to a grant being written involving Duke, University of
+    California Irvine, Virginia Tech, and the University of Virginia.
+
+3.  Outrageous goal: Would be developing a model that shows the systems impacts
+    on each other. This algorithm that would permit athletes to better
+    understand what systems they need to work on to improve their performance.
+    It is possible we can add additional data and new types of data to enhance
+    the understanding of the tri-systems relationships.
+
+We will work on the deliverable with the client based on findings. First we
+will work on an initial visualization, afterwards we will negotiate next steps
+with the stakeholder.
+
+Team members and roles
+----------------------
+
+### Derek Wales:
+
+Model development and stakeholder communication. I want to help lift the team
+toward success by helping my teammates. Primary point of contact with the client
+for administrative tasks.
+
+### Joao Mansur:
+
+Agile manager, visualization specialist, also looking forward to the big-picture
+aspects of modelling and ensuring that the product will please the client and be
+truthfully useful. UX and presentation specialist.
+
+### Julio Portella:
+
+Software developer and healthcare informatics enthusiast. I am expected to do
+the mathematical analysis and to work on the hard parts of the software
+development process. On the other hand, I am expected to support my teammates in
+the areas where they are more capable. Technical point of contact especially
+regarding domain and CS knowledge.
+
+Supporting resources
+--------------------
+
+At the moment we identified the additional resources
+
+-   Duke University Faculty
+
+-   Duke University Machine Learning Resources
+
+-   Duke Center FOR Health Informatics
+
+-   David Ward: Instructor in the Biomedical Engineering Department (BME 547).
+    Consultation in software development using python
+
+-   Take deep learning courses next semester: If doing the 3rd goal is possible,
+    Deep Learning could be a very useful tool
+
+Updates
+-------
+
+-   Weekly sync with stakeholders and our project manager and constant
+    collaboration through GitLab and Slack
+
+-   Start meetings with agendas and ending with action items
+
+Links
+-----
+
+The project is important because it is an application of data science and
+visualization that benefits two groups the doctors and the athletes.
+
+-   Doctors: Currently CPET is hard to interpret. The project will make it
+    easier for doctors to interpret the data, giving better diagnoses and
+    understanding of their patients.
+
+-   Athletes: If the third goal is reached, this could be very useful to improve
+    the physical training for competitive athletes.
+
+Formality of signatures
+-----------------------
+
+### Derek Wales: DW
+
+### Joao Mansur JM
+
+### Julio Portella: JP
